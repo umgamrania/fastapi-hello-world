@@ -11,7 +11,7 @@ HTML_PAGE = """
 <title>Hello World</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Pinyon+Script&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 <style>
   * { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -29,7 +29,7 @@ HTML_PAGE = """
   }
 
   h1 {
-    font-family: 'Pinyon Script', cursive;
+    font-family: 'Playfair Display', cursive;
     font-size: 7rem;
     font-weight: 400;
     letter-spacing: 0.03em;
